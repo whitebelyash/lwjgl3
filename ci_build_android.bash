@@ -124,7 +124,6 @@ yes | ant -Dplatform.linux=true \
   -Dbinding.rpmalloc=false \
   -Dbinding.spvc=true \
   -Dbinding.vma=true \
-  -Dbinding.vulkan=true
   -Dbinding.sse=false \
   -Dbinding.tinyexr=false \
   -Dbinding.tootle=false \
