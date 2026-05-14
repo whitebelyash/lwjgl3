@@ -127,6 +127,7 @@ yes | ant -Dplatform.linux=true \
   -Dbinding.xxhash=false \
   -Dbinding.yoga=false \
   -Dbinding.zstd=false \
+  -Dbinding.vulkan=true
   -Dbuild.type=release/3.3.3 \
   -Djavadoc.skip=true \
   -Dnashorn.args="--no-deprecation-warning" \
